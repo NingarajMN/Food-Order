@@ -24,7 +24,8 @@ Spring Data JPA
 
 Thymeleaf
 HTML, CSS, JavaScript
-Database:
+
+**Database:**
 MySQL
 
 **Development Tools:**
