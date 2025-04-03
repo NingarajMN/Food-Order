@@ -2,7 +2,7 @@
 
 Food-Order is an e-commerce application designed for seamless food ordering and management. Built using Java, Spring Boot, and Thymeleaf, it provides a robust platform for users to browse menus, place orders, and manage deliveries efficiently.
 
-Features
+**Features**
 User Management: Add, update, and delete user profiles.
 
 Product Management: Manage food items, including adding, updating, and deleting products.
@@ -15,7 +15,7 @@ Dynamic Views: Interactive and responsive templates using Thymeleaf.
 
 Database Integration: Persistent data storage with MySQL.
 
-Technology Stack
+**Technology Stack**
 Backend:
 
 Java
@@ -45,6 +45,7 @@ Spring Tool Suite (STS) or Eclipse
 Project Structure
 The project is organized into a modular structure for better maintainability:
 
+
 src/
 ├── main/
 │   ├── java/
@@ -58,7 +59,10 @@ src/
 │   │   ├── static/            # Static assets (CSS, JavaScript)
 │   │   └── application.properties # Configuration settings
 └── test/                      # Unit test cases
-Setup and Installation
+
+
+
+**Setup and Installation**
 Follow these steps to set up and run the project locally:
 
 Prerequisites
